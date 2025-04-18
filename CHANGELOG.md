@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-17)
+## Unreleased (2025-04-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7c7c52a`](https://github.com/stdlib-js/stdlib/commit/7c7c52aee744dd5e0d46f15940f5e52dd7bc8556) - **chore:** re-enable lint rule _(by Athan Reines)_
 -   [`b46d768`](https://github.com/stdlib-js/stdlib/commit/b46d768f6c855d86450602737872db434346d02c) - **feat:** add C implementation for `stats/base/dists/bernoulli/variance` [(#3893)](https://github.com/stdlib-js/stdlib/pull/3893) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
