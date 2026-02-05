@@ -69,7 +69,7 @@ where `p` is the success probability.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-variance@v0.3.1-esm/index.mjs';
 ```
 
 #### variance( p )
@@ -125,7 +125,7 @@ v = variance( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-variance@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
