@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-31)
+## Unreleased (2026-09-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`16d985e`](https://github.com/stdlib-js/stdlib/commit/16d985e8f1381b27d29cb7d7179c4eba64233392) - **test:** migrate `stats/base/dists/bernoulli/variance` to ULP-based assertions [(#15428)](https://github.com/stdlib-js/stdlib/pull/15428) _(by Divyanshu)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Divyanshu
 -   Philipp Burckhardt
 
 </section>
